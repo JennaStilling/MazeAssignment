@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"mazePD","l":"Maze.Content"},{"p":"mazePD","l":"Maze.Direction"},{"p":"mazePD","l":"Maze"},{"p":"mazePD","l":"Maze.MazeMode"}];updateSearchResults();
